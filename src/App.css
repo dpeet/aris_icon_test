@@ -1,8 +1,11 @@
 .App {
   margin-left: 20px;
-  margin-right: 20px;
+  margin-top: 20px;
 }
 
 .icon3 { 
   /* background-image: ; */
+  /* background-image: url(https://arisicontest.herokuapp.com/static/media/Clinical-Particulars-Tab-onSelect.128bfc03.svg); */
+  content: url(https://arisicontest.herokuapp.com/static/media/Clinical-Particulars-Tab-onSelect.128bfc03.svg);
 }
+
