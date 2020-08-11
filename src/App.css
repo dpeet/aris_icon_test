@@ -7,3 +7,35 @@
   content: url(https://raw.githubusercontent.com/dpeet/aris_icon_test/master/src/Clinical-Particulars-Tab-onSelect.svg);
 }
 
+.badge{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 16px;
+  border-radius: 3px;
+  font-family: "Inter";
+  font-weight: 900;
+  font-size: 8pt;
+  color: #ffffff;
+
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.badge-red {
+  background-color: #DC3030;
+}
+
+.badge-orange {
+  background-color: #F84D09;
+}
+
+.badge-blue {
+  background-color: #0659D4;
+}
+
+.icon-badge{
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(248deg) brightness(106%) contrast(106%); /* https://codepen.io/sosuke/pen/Pjoqqp */
+  width: 12px;
+}
